@@ -1,6 +1,8 @@
 # JetPHP
 PHP [Jet.com](http://jet.com) API Class
 
+Please note this class is still being tested. There may be bugs. This message will be removed when this version is stable.
+
 # API Credentials
 Please see the [Jet.com Partner Portal](https://partner.jet.com/) for more information on how to get your api user id, api secret and Jet merchant ID.
 
