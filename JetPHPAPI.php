@@ -20,8 +20,8 @@ class JetPHPAPI
 
     public $api_user_id = '';
     public $api_secret = '';
-	public $merchant_id = '';
-	public $api_prefix = 'https://merchant-api.jet.com/api/';
+    public $merchant_id = '';
+    public $api_prefix = 'https://merchant-api.jet.com/api/';
 
     private $api_token = '';
     private $api_token_ts = '';
